@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed div to nav for fixed navbar on browser */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+/* Changed div to nav for fixed navbar on browser */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Changed div to nav for fixed navbar on browser */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
