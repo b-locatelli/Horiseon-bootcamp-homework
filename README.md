@@ -16,3 +16,7 @@ THEN I find a concise, descriptive title
 ```
 
 Edited given file to meet standards. Imporved space to better understand and read the sections to work in. Added correct HTML refrences to better give understanding of what the lines are doing. Changed the order of the head. Added alt attributes to images for a description. Changed title to better fit the company. Made sure and corrected Sequential order of code. Corrected issues in the CSS stylesheet to fix the visible changed when i edited the code. 
+
+link: https://b-locatelli.github.io/Horiseon-bootcamp-homework/
+
+![horiseon hw ](assets/images/horison.gif)
